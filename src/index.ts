@@ -1,1 +1,1 @@
-console.log('hello world');
+console.log("%cHello Mung", "color:green;font-size: 72px");
